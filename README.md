@@ -54,9 +54,3 @@ The following example gives you a WKT string. If you'd like an object which you 
 ```
 
 The unit tests contain several examples if you need more details.
-
-## vNext
-
-The next version (0.5) will have a converter that will recognize more that just the geometric part of the GeoJSON. 
-Version 0.5 should be able to recognize feature collections and return a list of geometric objects or WKT strings, 
-whatever you desire.
